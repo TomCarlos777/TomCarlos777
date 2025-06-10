@@ -19,7 +19,7 @@
     <a href="https://www.linkedin.com/in/tom-carlos-lopes/">
         <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://img.shields.io/badge/LinkedIn-1E46FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="" target="_blank">
+    <a href="https://drive.google.com/file/d/1QFkWjbnVxI9SBvjjiiAwG8bNHQ2c4r6b/view?usp=sharing" target="_blank">
         <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://img.shields.io/badge/Ver%20Curr%C3%ADculo-1E46FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo">
     </a>
 </div>
